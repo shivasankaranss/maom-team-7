@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Maya Rao",
+    "role": "Founder and lead designer",
+    "bio": "Designs the look and the content structure of every site we ship.",
+    "photo": ""
+  },
+  {
+    "name": "Daniel Okafor",
+    "role": "Lead developer",
+    "bio": "Builds the sites and keeps them fast, accessible and secure.",
+    "photo": ""
+  },
+  {
+    "name": "Lena Fischer",
+    "role": "Project manager",
+    "bio": "Keeps projects on schedule and clients in the loop.",
+    "photo": ""
+  },
+  {
+    "name": "Arjun Menon",
+    "role": "Developer",
+    "bio": "Works on booking tools and data feeds.",
+    "photo": ""
+  }
+]
